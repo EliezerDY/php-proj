@@ -7,7 +7,7 @@ $today=date(l);
 if($today==Monday){
 echo "Today is Monday";
 echo "<BR>";
-echo "<img src='mage1.gif'>";
+echo "<img src='image1.gif'>";
 }
 
 elseif($today==Tuesday){
